@@ -12,5 +12,6 @@ Data Dash                  -    A Mario Kart-esque racer to get your data clean.
 
 **Utilities**
 
-EZ_Scrape_NBA_Finals.ipynb  -   In case you would like to analyze how growing up as a Lakers fan in the:
+<a href= "EZ_Scrape_NBA_Finals.ipynb">
+EZ_Scrape_NBA_Finals.ipynb</a>  -   In case you would like to analyze how growing up as a Lakers fan in the:
                                 70's, 80's, 90's, 00's, and now 20's has spoiled me for all other fandom.
