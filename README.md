@@ -1,16 +1,17 @@
 # AccidentalGuru.github.io
-Daniel Aaron Andrade's GitHub Site.
+Daniel Andrade's GitHub Site.
 
 This site features some samples of work from Mr. Andrade that highlight some of his life and times. 
 
-***Games***
+<h2>Games</h2>
 
-Super Productivity Enhancing Tetris - because a browser tab that says "Tetris" is a bad look. Created using JavaScript based on excellent tutorial at 
+<a href = "https://github.com/AccidentalGuru/tetris">
+Super Productivity Enhancing Tetris</a> - because a browser tab that says "Tetris" is a bad look. Created using JavaScript based on excellent tutorial at 
 
 Data Dash                  -    A Mario Kart-esque racer to get your data clean. Created in Unity and C#, published via Web GL. 
                                 Now we're a cookin' with gas, eh Luigi?
 
-**Utilities**
+<h2>Utilities</h2>
 
 <a href= "EZ_Scrape_NBA_Finals.ipynb">
 EZ_Scrape_NBA_Finals.ipynb</a>  -   In case you would like to analyze how growing up as a Lakers fan in the:
