@@ -1,7 +1,9 @@
 # AccidentalGuru.github.io
 Daniel Andrade's GitHub Site.
 
-This site features some samples of work from Mr. Andrade that highlight some of his life and times. 
+This site features some samples of work from Mr. Andrade <br>
+that highlight some of his basic technical skills such as: <br>
+]avaScript, Python, Unityk and micro game/micro app creation. 
 
 <h2>Games</h2>
 
